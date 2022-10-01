@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b02e5f8-8476-4f39-8a0a-c3b7e726ed42" name="Changes" comment="jjj">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/presentation/ProductView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/presentation/ProductView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27Jw9KQ1byAOXgYuBaRUWseLafS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PT2022_30223_FLOREAN_EUSEBIU_ASSIGMENT_4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start.Start" />
+      <module name="PT2022_30223_FLOREAN_EUSEBIU_ASSIGMENT_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b02e5f8-8476-4f39-8a0a-c3b7e726ed42" name="Changes" comment="" />
+      <created>1649051346249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649051346249</updated>
+      <workItem from="1649051350724" duration="753000" />
+      <workItem from="1649454529856" duration="1627000" />
+      <workItem from="1649488849862" duration="113000" />
+      <workItem from="1649509769749" duration="9397000" />
+      <workItem from="1649602534656" duration="9390000" />
+      <workItem from="1649653770510" duration="4261000" />
+      <workItem from="1649700905873" duration="619000" />
+      <workItem from="1649935636585" duration="608000" />
+      <workItem from="1650093355606" duration="5177000" />
+      <workItem from="1650187772139" duration="30708000" />
+      <workItem from="1651125631544" duration="599000" />
+      <workItem from="1651164624409" duration="15832000" />
+      <workItem from="1651183650515" duration="403000" />
+      <workItem from="1651184079147" duration="275000" />
+      <workItem from="1651407245928" duration="10926000" />
+      <workItem from="1651467930277" duration="2406000" />
+      <workItem from="1651746810023" duration="1450000" />
+      <workItem from="1651781239773" duration="20000" />
+      <workItem from="1651831261375" duration="4530000" />
+      <workItem from="1652307748250" duration="27000" />
+      <workItem from="1652734080446" duration="56000" />
+      <workItem from="1652882658328" duration="6000" />
+      <workItem from="1655973583614" duration="79000" />
+      <workItem from="1656662421017" duration="302000" />
+      <workItem from="1664609239091" duration="28000" />
+      <workItem from="1664609341041" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jjj" />
+    <option name="LAST_COMMIT_MESSAGE" value="jjj" />
+  </component>
+</project>
